@@ -8,6 +8,7 @@ A simple, classic Snake game built using **HTML**, **CSS**, and **JavaScript**. 
 - Randomly placed food to grow your snake
 - Self-collision and wall-collision detection
 - Score tracking
+- High score tracking
 - Game-over and restart functionality
 - Clean and responsive UI using vanilla HTML, CSS, and JS
 
@@ -43,3 +44,5 @@ A simple, classic Snake game built using **HTML**, **CSS**, and **JavaScript**. 
 ## 📸 Screenshot
 
 ![Snake Game Screenshot](assets/screenshot.png)
+
+~ Made with ❤️ by Akanksha
