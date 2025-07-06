@@ -5,7 +5,7 @@
 }
 
 .body {
-    background: url(images.jpeg);
+    background: url(assets/images.jpeg);
     min-height: 100vh;
     display: flex;
     align-items: center;
